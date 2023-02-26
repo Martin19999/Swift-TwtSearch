@@ -1,3 +1,25 @@
+Main Page
+<img width="317" alt="Screenshot 2023-02-26 at 22 07 27" src="https://user-images.githubusercontent.com/116632169/221441190-fa54cdb2-ebf3-4966-bf97-c6fcebf0950f.png">
+
+Search the tag "art"
+<img width="325" alt="Screenshot 2023-02-26 at 22 10 24" src="https://user-images.githubusercontent.com/116632169/221441231-df523800-831a-4192-9b60-f1ec0aee56ee.png">
+
+Click on the first tweet
+<img width="325" alt="Screenshot 2023-02-26 at 22 10 14" src="https://user-images.githubusercontent.com/116632169/221441268-e424503f-9af1-4f53-bc02-b66694b9afc2.png">
+
+Check the expanded image
+<img width="326" alt="Screenshot 2023-02-26 at 22 10 38" src="https://user-images.githubusercontent.com/116632169/221441289-d289e1e9-d2c7-4706-8a42-122ec1854a9d.png">
+
+Check search history
+<img width="326" alt="Screenshot 2023-02-26 at 22 10 52" src="https://user-images.githubusercontent.com/116632169/221441296-be67e1a6-bb24-4da6-ac52-29ee39ae9639.png">
+
+
+
+
+
+Each of part of the file explained:
+
+
 Part 1 TweetsTVC 
 
 1. TweetsTVC file is like the “root” of the app, we perform user searches here. These two properties are related to the textlabel, where we enter our search requests.
